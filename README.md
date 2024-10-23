@@ -6,6 +6,7 @@ By leveraging this dataset, developers can build robust and efficient **document
 **[Get the data](https://unidata.pro/datasets/synthetic-passports/?utm_source=github&utm_medium=cpc&utm_campaign=synthetic-passports)**
 
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F22059654%2Faebcdc96f2160742bf8f5683e273aeec%2FFrame%20135.png?generation=1729689336288410&alt=media)
+##The dataset is solely for informational or educational purposes and should not be used for any fraudulent or deceptive activities.
 
 ## Images in the dataset
 
