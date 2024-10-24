@@ -1,4 +1,4 @@
-# Passport photos dataset
+# Passport Photos Dataset
 
 This dataset contains over **100,000** passport photos from **100+** countries, making it a valuable resource for researchers and developers working on **computer vision** tasks related to **passport verification, biometric identification, and document analysis.** This dataset allows researchers and developers to train and evaluate their models without the ethical and legal concerns associated with using real passport data.
 
