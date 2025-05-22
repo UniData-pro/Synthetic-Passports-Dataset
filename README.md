@@ -12,7 +12,7 @@ By leveraging this dataset, developers can build robust and efficient **document
 
 The dataset includes a wide variety of passport photos, showcasing various background colors. It is designed to help developers and researchers build and train machine learning models that can accurately detect and analyze passport photos. 
 
-## 💵 Buy the Dataset: This is a limited preview of the data. To access the full dataset, please contact us at [https://unidata.pro](https://unidata.pro/datasets/ibeta-level-2-video-attacks/?utm_source=github&utm_medium=cpc&utm_campaign=ibeta-level-2) to discuss your requirements and pricing options.
+## 💵 Buy the Dataset: This is a limited preview of the data. To access the full dataset, please contact us at [https://unidata.pro](https://unidata.pro/datasets/synthetic-passports/?utm_source=github&utm_medium=cpc&utm_campaign=synthetic-passports) to discuss your requirements and pricing options.
 
 **Photos in the dataset:**
 1. With background
@@ -22,4 +22,4 @@ The dataset includes a wide variety of passport photos, showcasing various backg
 
 The dataset can facilitate the development of applications aimed at improving security measures in border control and immigration processes. By utilizing advanced algorithms trained on diverse passport images, authorities can enhance the accuracy and speed of identity verification, reducing the risk of fraudulent activities. 
 
-## 🌐 [UniData](https://unidata.pro/datasets/ibeta-level-2-video-attacks/?utm_source=github&utm_medium=cpc&utm_campaign=ibeta-level-2) provides high-quality datasets, content moderation, data collection and annotation for your AI/ML projects 
+## 🌐 [UniData](https://unidata.pro/datasets/synthetic-passports/?utm_source=github&utm_medium=cpc&utm_campaign=synthetic-passports) provides high-quality datasets, content moderation, data collection and annotation for your AI/ML projects 
